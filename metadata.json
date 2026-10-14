@@ -1,0 +1,6 @@
+{
+  "name": "GreenCorridor AI - Urban Traffic & Emergency Response Engine",
+  "description": "Intelligent urban traffic and emergency response coordination engine dynamically granting green corridors, managing safety interlocks, and broadcasting V2X driver advisories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
